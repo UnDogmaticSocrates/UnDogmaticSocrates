@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # My_repository
 
 <div id="header" align="center">
-  <img decoding="async" src="banner_editable.png" width="800"/>
+  <img decoding="async" src="banner.png" width="800"/>
 </div>
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-vera-466836213/)
